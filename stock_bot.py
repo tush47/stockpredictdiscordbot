@@ -3,7 +3,7 @@ from discord.ext import commands
 import yfinance as yf
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your actual Discord bot token
-BOT_TOKEN = 'MTEzNjUxNDg5OTY0ODk5MTI3Mw.GBTu0D.npCdoEhxksPHGO0pJrRqR_E_x1MYU4ChtAgxwg'
+BOT_TOKEN = 'token'
 PREFIX = '!'  # You can set the bot's command prefix to any character you prefer
 
 intents = discord.Intents.default()
